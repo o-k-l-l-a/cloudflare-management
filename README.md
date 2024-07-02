@@ -1,4 +1,4 @@
-```markdown
+
 # Cloudflare DNS Records Deletion Script
 
 This script allows you to authenticate with your Cloudflare account using your Global API Key and email, list all domains associated with your account, and delete all DNS records for a selected domain.
