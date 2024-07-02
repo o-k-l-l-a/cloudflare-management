@@ -32,7 +32,7 @@ This script allows you to authenticate with your Cloudflare account using your G
 
 4. Run the script:
    ```sh
-   python3 script.py
+   python3 Delete-all-records.py
    ```
 
 5. The script will list all the domains associated with your Cloudflare account. Enter the number corresponding to the domain you want to manage.
@@ -43,7 +43,7 @@ This script allows you to authenticate with your Cloudflare account using your G
 
 1. Run the script:
    ```sh
-   python3 script.py
+   python3 Delete-all-records.py
    ```
 
 2. Output:
